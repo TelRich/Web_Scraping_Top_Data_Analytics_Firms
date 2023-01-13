@@ -1,9 +1,17 @@
+# Import necessary library
 import pandas as pd
 
+"""
+The blow function can extract the following firm details from the html tags:
+Position, Names (pass in the list starting from the 4th item), Motors, Reviews,
+Prices, Employess, Year founded, and Location 
+"""
 def extract_detail(name, tag_lst):
     lst = [tag.text for tag in tag_lst]
     print(f"The number of firm {name} extracted is {len(lst)}")
     return pd.Series(lst)
+
+""" The below are individual functions to extract each firm details"""
 
 def extract_position(tag_lst):
     pos_lst = [pos.text for pos in tag_lst]
