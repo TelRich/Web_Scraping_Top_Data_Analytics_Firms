@@ -1,1 +1,1 @@
-## [View Full Project]()
+## [View Full Project](https://nbviewer.org/github/TelRich/Data-Analytics-Company-Web-Scraping/blob/main/top_da_company.ipynb)
