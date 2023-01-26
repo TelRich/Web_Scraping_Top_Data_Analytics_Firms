@@ -1,0 +1,154 @@
+,firm_name,firm_motor,star_rating,review,service_pct(%),platform_pct(%),firm_price,firm_employee,year_founded,firm_location
+0,SPEC INDIA,"Enterprise Software, Mobility & BI Solutions",4.8,26,20,15,< $25/hr ,250 - 999,1987,"India, United States "
+1,instinctools,Delivering the future. Now.,4.8,8,5,10,$50 - $99/hr ,250 - 999,2000,"United States, Germany "
+2,SoluLab,Blockchain | IoT | Mobility | AI | Big Data,5.0,32,15,15,$25 - $49/hr ,50 - 249,2014,"United States, India "
+3,Sigma Data Systems,Discover the world of Big Data with us!,4.7,5,40,10,$25 - $49/hr ,250 - 999,2010,"United States, Australia "
+4,NeenOpal Inc.,The Hub Of Data Science Innovation,5.0,5,25,10,$25 - $49/hr ,10 - 49,2016,"United States, India "
+5,Consagous Technologies,Helping brands by being their Technology Partner,4.8,32,10,20,$25 - $49/hr ,50 - 249,2008,"India, United States "
+6,NEX Softsys,IT Partner for Global Clients,5.0,12,20,20,$25 - $49/hr ,50 - 249,2003,United States 
+7,Beyond Key,IT Consulting and Software Development Services ,5.0,7,20,10,$25 - $49/hr ,250 - 999,2005,"United States, India "
+8,Datapine,BUSINESS INTELLIGENCE MADE EASY,5.0,3,90,5,$50 - $99/hr ,10 - 49,2012,Germany 
+9,Dataforest,Data Engineering and Web Product Development,5.0,4,30,20,$50 - $99/hr ,50 - 249,2018,"Ukraine, Estonia "
+10,pwrteams,Scale your enterprise with cross-border teams,4.9,7,10,25,$25 - $49/hr ,250 - 999,2008,"Luxembourg, Poland "
+11,Intellias,Global Technology Partner,5.0,5,15,5,$25 - $49/hr ,"1,000 - 9,999",2002,"Ukraine, United States "
+12,Altar.io,Product & Software Development Agency,5.0,9,25,10,$50 - $99/hr ,10 - 49,2015,"Portugal, United Kingdom "
+13,Huspi,Transforming ideas into user-friendly software.,5.0,6,10,50,$50 - $99/hr ,10 - 49,2015,"Poland, Ukraine "
+14,Rudder Analytics,Steering Your Business.,4.8,3,90,5,$25 - $49/hr ,10 - 49,2015,India 
+15,Fayrix,Remote software teams & services for startups. ,5.0,8,10,5,< $25/hr ,"1,000 - 9,999",2005,Israel 
+16,Accubits,AI & Blockchain focused development company,4.9,7,10,10,$25 - $49/hr ,50 - 249,2012,"India, United States "
+17,OrbitSoft,We do software right,4.9,3,5,20,$25 - $49/hr ,50 - 249,2001,United States 
+18,Broscorp,Delivering software that helps businesses to grow,4.9,4,10,50,$25 - $49/hr ,10 - 49,2016,Ukraine 
+19,Clustox,The House of Innovation,5.0,5,10,25,< $25/hr ,10 - 49,2012,Pakistan 
+20,VITech,Software development powerhouse,5.0,3,30,25,$50 - $99/hr ,50 - 249,2007,Ukraine 
+21,GFAIVE,Demand forecasting for Fashion Retail,5.0,2,20,25,NA ,10 - 49,2018,Georgia 
+22,SPRYTE Labs,"The right team, every time",5.0,3,10,10,NA ,"1,000 - 9,999",2019,United States 
+23,abstractR,We make Abstract ideas Real,5.0,2,20,20,$50 - $99/hr ,10 - 49,2018,Czech Republic 
+24,SetuServ,Customized AI: Machine Power + Human Accuracy,5.0,1,50,16,NA ,50 - 249,2012,"United States, India "
+25,InData Labs,Big on Data Science and AI,5.0,1,30,30,$50 - $99/hr ,50 - 249,2014,"Cyprus, Singapore "
+26,Aegis Soft Tech,Software Development Expert,5.0,2,5,25,$25 - $49/hr ,50 - 249,2003,India 
+27,AM-BITS,Time to rethink IT,5.0,2,20,10,$25 - $49/hr ,50 - 249,2016,Ukraine 
+28,ScaleupAlly,Scaleup the development of your Business Idea,4.8,3,30,30,$25 - $49/hr ,10 - 49,2017,India 
+29,ThirdEye Data Inc.,Transforming Enterprises with AI Applications,5.0,1,20,10,$50 - $99/hr ,50 - 249,2010,United States 
+30,CodeCoda Ltd,Advanced Software Development Outsourcing,3.0,2,10,15,$25 - $49/hr ,50 - 249,2016,"Bulgaria, Ireland "
+31,S-PRO,Strategic partner.,5.0,30,10,25,$50 - $99/hr ,50 - 249,2014,Poland 
+32,Welby Consulting,The Future of Digital,3.4,5,10,50,$100 - $149/hr ,2 - 9,2015,Canada 
+33,CDN Solutions Group,"Blockchain, NFT, Mobile App, Software Development",4.6,20,10,20,< $25/hr ,250 - 999,2000,"India, United States "
+34,WebClues Infotech,"Your Vision, Our Creation",4.6,15,5,50,$25 - $49/hr ,50 - 249,2014,Canada 
+35,MobiDev,"Web and Mobile development, AI apps",5.0,16,10,10,$50 - $99/hr ,250 - 999,2009,United States 
+36,Prismetric,Delivering Quality Products and Premium Services,4.7,14,5,50,< $25/hr ,50 - 249,2008,"India, United States "
+37,Sunflower Lab,Sunflower Lab,4.9,13,5,50,$50 - $99/hr  ,50 - 249,2010,United States 
+38,Clavax Technologies LLC,Transform Your Ideas into Digital Solutions,4.4,15,10,10,$25 - $49/hr ,50 - 249,2011,"United States, Australia "
+39,APPSTIRR,Award Winning App Development Company,5.0,14,5,20,$25 - $49/hr ,50 - 249,2010,"United States, United Arab Emirates "
+40,Classic Informatics,The Digital Innovation Company,4.9,13,20,20,$25 - $49/hr ,50 - 249,2002,"India, United Kingdom "
+41,Idealogic,End-to-end custom software development,5.0,13,10,20,$50 - $99/hr ,50 - 249,2016,"Ukraine, Estonia "
+42,OpenGeeksLab,Crafting software that works for you.,5.0,12,10,30,$25 - $49/hr ,50 - 249,2015,Ukraine 
+43,TrendLine Global,Custom Software Development Company ,5.0,11,5,25,$25 - $49/hr ,50 - 249,2010,"Ukraine, United Kingdom "
+44,DigiPrima Technologies Pvt. Ltd.,Trusted Partners for Software Solutions,5.0,11,10,20,< $25/hr ,10 - 49,2016,"India, United States "
+45,HQSoftware,"IoT, AR, VR, and custom software development",4.9,11,5,25,$25 - $49/hr ,50 - 249,2001,"United States, Georgia "
+46,BR Softech Pvt Ltd,Website & Mobile Apps Development Company,4.5,10,5,50,$25 - $49/hr ,"1,000 - 9,999",2012,"India, United States "
+47,Exceed Team,Exceeding expectations of our clients,5.0,5,5,100,$25 - $49/hr ,50 - 249,2013,Russia 
+48,Maxilect,"Martech, Ad Tech, Fintech, Blockchain",5.0,8,20,20,$50 - $99/hr ,50 - 249,2015,Russia 
+49,Burning Buttons LLC,Digital boost for your business to succeed!,5.0,6,10,50,$25 - $49/hr ,50 - 249,2009,"Germany, Russia "
+50,Systango Technologies,"We Make the Impossible, Possible!",5.0,6,10,50,$25 - $49/hr ,250 - 999,2007,United Kingdom 
+51,Inoxoft,"IEC/ISO 27001, Google, Microsoft Certified Company",5.0,8,10,10,$25 - $49/hr ,50 - 249,2014, Ukraine 
+52,Noventum Custom Software Development Company,Custom Software & Web Development in New Mexico,5.0,3,20,100,$100 - $149/hr ,2 - 9,2012,United States 
+53,Napollo Software Design L.L.C,Best Software Design Agency in Dubai & New York,5.0,7,20,20,NA ,50 - 249,2011,United States 
+54,SemiDot Infotech Pvt Ltd,Right Technology Partner for IT Solutions,4.7,7,10,30,< $25/hr ,50 - 249,2011,"United States, India "
+55,Sphinx Solutions,Inspire : Innovate : Evolve,4.6,8,5,10,< $25/hr ,Freelancer,2010,"India, United States "
+56,Redian Software,Delivering Open Source Solutions,5.0,5,10,50,$25 - $49/hr ,10 - 49,2016,"United Kingdom, India "
+57,Indus Net Technologies,We Deliver Digital Success,5.0,5,10,50,< $25/hr ,250 - 999,1997,"India, United Kingdom "
+58,RWaltz Group Inc.,Blockchain Solutions Experts,5.0,5,10,50,$50 - $99/hr ,50 - 249,2000,United States 
+59,UNL Solutions,"Dedicated Team, Dedicated Developer",4.3,3,10,100,$25 - $49/hr ,50 - 249,2006,"United Kingdom, Belarus "
+60,Shockoe,Mobile by Design,5.0,2,5,100,$100 - $149/hr ,10 - 49,2010,United States 
+61,Decipher Zone Technologies Pvt Ltd,Java Development Company,5.0,2,5,100,< $25/hr ,50 - 249,2015, India 
+62,Stellen Infotech,You Think We Create,5.0,2,2,100,$25 - $49/hr ,50 - 249,2010,"India, United States "
+63,N-iX,Software development company,5.0,5,20,25,$50 - $99/hr ,"1,000 - 9,999",2002,"Malta, Ukraine "
+64,Build Scale Prosper,Build. Scale. Prosper. ,5.0,1,25,100,$100 - $149/hr ,2 - 9,2018,United States 
+65,DreamzTech Solutions Inc.,"Digital Partner for Web, Mobile & IoT Solutions",5.0,4,10,50,< $25/hr  ,50 - 249,2013,"United Kingdom, United States "
+66,NIX,"Enterprise Software, Data Analytics & BI Solutions",5.0,6,10,10,$50 - $99/hr ,"1,000 - 9,999",1994,United States 
+67,InnovationM,End to End Technology Solutions,4.4,4,20,50,< $25/hr ,50 - 249,2010,"United States, India "
+68,Fortunesoft IT Innovations,High-end software product engineering & services,5.0,4,5,50,$25 - $49/hr ,50 - 249,2009,"United States, India "
+69,Prakash Software Solutions Pvt Ltd,Smart Technology Provider,4.8,5,2,35,$25 - $49/hr ,50 - 249,2000,India 
+70,Bacancy Technology,Full Stack Agile & Lean Development Partner,4.8,5,10,25,$25 - $49/hr ,250 - 999,2011,"India, Canada "
+71,SumatoSoft,We help companies to digitalize their businesses.,5.0,5,10,20,$50 - $99/hr ,50 - 249,2012,United States 
+72,"Zymr, Inc.",Accelerate Cloud-Native Agile Development,5.0,1,5,100,$25 - $49/hr ,50 - 249,2012,"United States, Australia "
+73,Golden Logic Company for Communications and Information Technology,"IT, Applications, VR/AR System Integration Banking",5.0,1,5,100,NA ,10 - 49,2017,"Saudi Arabia, United Arab Emirates "
+74,Loginworks Softwares Inc,"Team you will Like, Trust and Admire",5.0,3,15,50,< $25/hr ,50 - 249,2006," India, United States "
+75,4ire Labs,"Create winning experience in Blockchain, DeFi ",5.0,3,10,50,$25 - $49/hr ,250 - 999,2010,"Ukraine, Estonia "
+76,JDV Technologies,Cloud Consulting and Software Development Company ,4.9,5,10,10,$25 - $49/hr ,10 - 49,2018,"India, United States "
+77,Ballard Chalmers,"software, engineered",5.0,5,5,10,$100 - $149/hr ,10 - 49,2005,United Kingdom 
+78,Queppelin,Metaverse - AR | VR | NFTs | AI | WebAR | 3D,5.0,5,5,10,< $25/hr ,50 - 249,2010,United States 
+79,Plaxonic Technologies,Invent | Innovative,5.0,4,10,25,$25 - $49/hr ,50 - 249,2013,"India, United States "
+80,TemaBit,Keep it smart and simple!,4.9,4,10,25,$25 - $49/hr ,250 - 999,2013,"Ukraine, United States "
+81,Binariks Inc,Software Development Company,5.0,4,5,25,$50 - $99/hr ,50 - 249,2014,"Ukraine, United States "
+82,Serokell,"YOUR EXPECTATIONS, LIFTED.",5.0,4,20,10,$50 - $99/hr ,50 - 249,2015,Estonia 
+83,Space-O Technologies,"[Mobile, Web, BigData, Ruby, Python Expert]",4.9,4,10,20,$25 - $49/hr ,50 - 249,2010,"India, Canada "
+84,DIGIS,Software Development,5.0,2,50,25,$25 - $49/hr ,50 - 249,2009,Ukraine 
+85,DOIT Software,"Mobile Apps, Software Development & Staffing",5.0,4,5,20,$25 - $49/hr ,10 - 49,2014,"Ukraine, United Kingdom "
+86,SKY INCOM,Web & Mobile Development,5.0,4,5,20, $25 - $49/hr ,10 - 49,2002,Belarus 
+87,Miquido,Full-service software development partner,4.9,4,20,10,$50 - $99/hr ,250 - 999,2011,"Poland, United Kingdom "
+88,The Analyst Agency,"Web Developers in Buffalo, NY",5.0,1,30,50,NA ,Freelancer,,"United States, India "
+89,ALFATEK,"IT MSP, Software Development, Solution, IT Service",5.0,3,5,25,$100 - $149/hr ,2 - 9,2013,United States 
+90,ELEKS,Your Technology Partner for Software Innovation,5.0,3,10,20,$25 - $49/hr ,"1,000 - 9,999",1991,"Estonia, United States "
+91,Imenso Software,Full Stack Tech Consulting Agency,5.0,3,10,20,$25 - $49/hr ,50 - 249,2010,India 
+92,Pitangent,Easing productivity with digital innovations,5.0,3,10,20,< $25/hr ,10 - 49,2017,India 
+93,Maticz Technologies,"Web3, Metaverse & Blockchain Development Company",5.0,3,10,20,$25 - $49/hr ,50 - 249,2020,India 
+94,Damco Solutions,Enabling Business Transformation and Innovation,4.9,3,5,25,NA ,"1,000 - 9,999",1996,United States 
+95,Synergo Group,We Build Effective Solutions,5.0,1,20,50,$25 - $49/hr ,10 - 49,2005,Canada 
+96,Advanced Software Development (ASD Ltd),Custom Software Development Company,5.0,1,20,50,$25 - $49/hr ,50 - 249,2007,Ukraine 
+97,Whitecap Canada,Reimagine Your Business,5.0,1,15,50,< $25/hr ,10 - 49,1997,Canada 
+98,Teksmobile,1500+ Mobile Apps Delivered Over 15+ Years,5.0,1,10,50,$25 - $49/hr ,50 - 249,2006,"Australia, India "
+99,Jellyfish Technologies,Transforming ideas into applications,5.0,2,5,30,$25 - $49/hr ,50 - 249,2011,"India, United States "
+100,JetSoftPro,Agility. Performance. Scale.,4.8,1,10,50,$25 - $49/hr ,50 - 249,2003,United States 
+101,Focaloid Technologies,Digital Solutions. Simplified.,5.0,2,10,25,$25 - $49/hr ,50 - 249,2012,"India, United States "
+102,Hiteshi,Top Mobile & Web Development Company,5.0,2,10,25,$25 - $49/hr ,50 - 249,2006,"India, Australia "
+103,Techmango Technology Services Private Limited,Best Offshore Software Development Company ,4.3,3,10,20,< $25/hr ,250 - 999,2014,India 
+104,Evolve Technologies,IT agency,4.8,1,30,30,$50 - $99/hr ,10 - 49,2000,Ireland 
+105,Virtual Electronics PTE LTD,Software and mobile app development in Singapore,5.0,2,5,25,$25 - $49/hr ,10 - 49,2019,Singapore 
+106,Reenbit,Intelligent engineering & beyond ,5.0,3,5,5,$25 - $49/hr ,50 - 249,2018,"Ukraine, Poland "
+107,Michigan Software Labs,We Make Apps,5.0,2,10,20,$150 - $199/hr ,10 - 49,2010,United States 
+108,Starkflow,#1 platform for hiring SaaS talent globally.,5.0,2,10,20,$100 - $149/hr ,10 - 49,2017,"United States, Ukraine "
+109,ExpertsFromIndia,We Make IT Possible,5.0,2,2,25,$25 - $49/hr ,250 - 999,2003,"United States, India "
+110,Volumetree,Impact Through Technology,5.0,2,20,10,$25 - $49/hr ,50 - 249,2017,"India, South Africa "
+111,WOXAPP,Mobile applications for startups and businesses ,5.0,2,5,20,$25 - $49/hr ,10 - 49,2011,Ukraine 
+112,ISS Art,It’s your chance to break new ground in business!,5.0,2,10,15,$25 - $49/hr ,50 - 249,2003,"Russia, United States "
+113,47Billion,Data Analytics | UXUI | Product Development | ML ,5.0,1,40,9,< $25/hr ,50 - 249,2012,"United States, India "
+114,Talentelgia Technologies Private Limited,Transforming ideas into innovations,5.0,2,10,12,< $25/hr ,50 - 249,2012,"India, United Kingdom "
+115,Endion IT,Web & Mobile App Development,5.0,1,10,30,$25 - $49/hr ,10 - 49,2017,Argentina 
+116,Programmers.io,Your Extended Software Development Team,5.0,1,10,30,$25 - $49/hr ,250 - 999,2013,"United States, India "
+117,Intetics Inc.,Where Software Concepts Come Alive™,5.0,1,15,25,$50 - $99/hr ,250 - 999,1995,"United States, Germany "
+118,Jevera,SOFTWARE SOLUTIONS FOR COMPLICATED BUSINESS TASKS,4.8,1,40,5,$50 - $99/hr ,50 - 249,2009,Ukraine 
+119,Innuy - Full Stack Development,Innuy - Full Stack Development,4.8,1,20,20,NA ,10 - 49,2012,Uruguay 
+120,Web And SEO Pro,Web Design And Development Services,5.0,1,6,26,$50 - $99/hr ,50 - 249,2015,United States 
+121,Pentation Analytics,We provide analytical services to BFSI industry,0.0,0,100,70, $50 - $99/hr ,10 - 49,2015,United States 
+122,ITXITPRO PVT. LTD.,Unleash The Digital Dynamics,5.0,1,10,20,< $25/hr ,10 - 49,2014,India 
+123,Softura,Enabling Innovation in a Business 4.0 World,5.0,1,10,20,$100 - $149/hr ,250 - 999,1997,"United States, India "
+124,ConvergeSol,Solutions Focused On Your Business,5.0,1,10,20,$25 - $49/hr ,10 - 49,2010,"United States, India "
+125,Oneskai,Digitally Transform Your Business,5.0,1,10,20,$25 - $49/hr ,10 - 49,2021,India 
+126,Chetu,World Class Software Solutions,5.0,1,5,20,$25 - $49/hr ,"1,000 - 9,999",2000,"United States, Netherlands "
+127,Miri Infotech,Top 1% Talent at an Unbeatable Price,4.8,1,5,20,< $25/hr ,250 - 999,2003,"United States, India "
+128,BairesDev,Powered by Technology. Driven by Talent.,5.0,1,5,10,$25 - $49/hr ,"1,000 - 9,999",2009,"United States, Argentina "
+129,Avenga,Transforming Industries,4.0,1,10,20,$50 - $99/hr ,"1,000 - 9,999",2019,"United States, Germany "
+130,WebDataGuru,Web Data Extraction and Scraping Services,0.0,0,100,40,< $25/hr ,50 - 249,2015,"United States, United Kingdom "
+131,Analytist,Advancing your insightful decisions,0.0,0,100,30,$50 - $99/hr ,2 - 9,2019,Thailand 
+132,ima appweb,"Increased Awareness, Higher Visibility",0.0,0,10,100,$25 - $49/hr ,10 - 49,2011,India 
+133,Carter Point,Aiding IT brands gain traction in local markets.,0.0,0,10,100,< $25/hr ,2 - 9,2015,Estonia 
+134,MIRAKI TECHNOLOGIES,MIRACLES HAPPEN HERE,0.0,0,10,100,$100 - $149/hr ,50 - 249,2015,India 
+135,Clairvoyant LLC,We power Digital Disruption,0.0,0,70,50,$50 - $99/hr ,50 - 249,2012,United States 
+136,XLENT TECHNOLOGIES,"web, ios, android, chatbot, wordpress, magento2",0.0,0,5,100,$100 - $149/hr ,10 - 49,2017,United States 
+137,SunTec Data,Turn Data Into Sight,0.0,0,100,20,NA ,250 - 999,,"United States, India "
+138,3i Data Scraping Services,Enterprise Web/Mobile App Data Scraping!,0.0,0,100,20,NA ,50 - 249,2009,"United States, Germany "
+139,Precognox,Precognox is a high-end consulting firm,0.0,0,60,50,NA ,50 - 249,2008,Hungary 
+140,SEVEN,The Company That Exceeds Your Expectations,0.0,0,6,80,$25 - $49/hr ,50 - 249,2007,Ukraine 
+141,FreshDataLabs,Getting the leads has never been this easy,0.0,0,50,40,$50 - $99/hr ,10 - 49,2018,India 
+142,HTML Pro,NYC’s Top IT Solutions & Digital Agency,1.0,1,10,30,$50 - $99/hr ,50 - 249,2013,United States 
+143,Juice analytics,Serve up your data the way customers need it,0.0,0,70,20,$50 - $99/hr ,10 - 49,2004,United States 
+144,Salpo Technologies,Listen. Learn. Innovate.,0.0,0,30,50,NA ,50 - 249,2007,United Kingdom 
+145,Dataentryindia.in,IT Outsourcing Services,0.0,0,25,50,NA ,250 - 999,1999,"United States, India "
+146,element61,experience & expertise - Thought-leading Analytics ,0.0,0,80,5,$100 - $149/hr ,50 - 249,2007,Belgium 
+147,Tectoro Consulting Pvt Ltd,Capital Markets Technology Solutions,0.0,0,20,50,$25 - $49/hr ,50 - 249,2015,"India, Singapore "
+148,Rock Your Data,Delivering Cloud Analytics that Rocks Your Data,0.0,0,70,10,$150 - $199/hr ,10 - 49,2017,Canada 
+149,CodeRiders,We desire. Together we achieve!,0.0,0,15,50,$25 - $49/hr ,10 - 49,2013,Armenia 
+150,Notionmind,Software. Strategy. Managed Services.,0.0,0,15,50, $50 - $99/hr ,10 - 49,2019,India 
+151,OptimusFox,Best Blockchain Development Company in USA,0.0,0,15,50,$50 - $99/hr ,50 - 249,2018,United States 
+152,QAT Global,Together We Can Accomplish Anything - US - BR- CR,0.0,0,10,50,$50 - $99/hr ,50 - 249,1995,"United States, Brazil "
